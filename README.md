@@ -197,4 +197,4 @@ Does not work with ActiveMQ because it requires AMQP 1.0 which is a completely d
 
 ## License
 
-BunnyPHP is licensed under MIT license. See `LICENSE` file.
+BunnyPHP is licensed under MIT license. See `LICENSE` file
